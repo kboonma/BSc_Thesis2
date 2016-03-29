@@ -1,0 +1,29 @@
+\contentsline {chapter}{\numberline {1}Introduction}{2}{chapter.1}
+\contentsline {section}{\numberline {1.1}Solar wind and Magnetosphere}{3}{section.1.1}
+\contentsline {section}{\numberline {1.2}Current Systems}{4}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Magnetopause Current}{6}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Ring-current}{6}{subsection.1.2.2}
+\contentsline {section}{\numberline {1.3}Geomagnetic Indices}{7}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Disturbance Storm Time (Dst) Index}{7}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}Est and Ist Indices}{8}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}Auroral-Electrojet (AE) Indices}{8}{subsection.1.3.3}
+\contentsline {section}{\numberline {1.4}Coupling Functions}{9}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}d$\Phi _{MP}$/dt}{9}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}E$_{SR}$}{10}{subsection.1.4.2}
+\contentsline {chapter}{\numberline {2}Data}{11}{chapter.2}
+\contentsline {section}{\numberline {2.1}Solar Wind Parameters, Dst, AU, and AL Data}{11}{section.2.1}
+\contentsline {section}{\numberline {2.2}Est and Ist Data}{12}{section.2.2}
+\contentsline {section}{\numberline {2.3}Correction on Dst Index data}{12}{section.2.3}
+\contentsline {section}{\numberline {2.4}Time Integration of Solar Wind for Each Index}{12}{section.2.4}
+\contentsline {chapter}{\numberline {3}Method}{14}{chapter.3}
+\contentsline {section}{\numberline {3.1}Main Code}{14}{section.3.1}
+\contentsline {section}{\numberline {3.2}Correction of the AU and AL indices}{15}{section.3.2}
+\contentsline {chapter}{\numberline {4}Results}{17}{chapter.4}
+\contentsline {section}{\numberline {4.1}Correlation between $Dst$ and ${p^{1/2}d\Phi _{MP}/dt}$}{17}{section.4.1}
+\contentsline {section}{\numberline {4.2}Correlation between $Est$ and ${p^{1/2}d\Phi _{MP}/dt}$}{19}{section.4.2}
+\contentsline {section}{\numberline {4.3}Correlation between $Dst$ and $E_{SR}$}{19}{section.4.3}
+\contentsline {section}{\numberline {4.4}Correlation between $AU$ and $d\Phi _{MP}/dt$}{20}{section.4.4}
+\contentsline {section}{\numberline {4.5}Correlation between $AL$ and $d\Phi _{MP}/dt$}{20}{section.4.5}
+\contentsline {chapter}{\numberline {5}Discussion and Conclusion}{24}{chapter.5}
+\contentsline {chapter}{Bibliography}{26}{chapter*.11}
+\contentsline {chapter}{\numberline {A}Main MATLAB\textsuperscript {\textregistered } code}{28}{appendix.A}

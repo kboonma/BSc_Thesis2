@@ -1,0 +1,29 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Solar wind and Magnetosphere}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Current Systems}{chapter.1}% 3
+\BOOKMARK [2][-]{subsection.1.2.1}{Magnetopause Current}{section.1.2}% 4
+\BOOKMARK [2][-]{subsection.1.2.2}{Ring-current}{section.1.2}% 5
+\BOOKMARK [1][-]{section.1.3}{Geomagnetic Indices}{chapter.1}% 6
+\BOOKMARK [2][-]{subsection.1.3.1}{Disturbance Storm Time \(Dst\) Index}{section.1.3}% 7
+\BOOKMARK [2][-]{subsection.1.3.2}{Est and Ist Indices}{section.1.3}% 8
+\BOOKMARK [2][-]{subsection.1.3.3}{Auroral-Electrojet \(AE\) Indices}{section.1.3}% 9
+\BOOKMARK [1][-]{section.1.4}{Coupling Functions}{chapter.1}% 10
+\BOOKMARK [2][-]{subsection.1.4.1}{dMP/dt}{section.1.4}% 11
+\BOOKMARK [2][-]{subsection.1.4.2}{ESR}{section.1.4}% 12
+\BOOKMARK [0][-]{chapter.2}{Data}{}% 13
+\BOOKMARK [1][-]{section.2.1}{Solar Wind Parameters, Dst, AU, and AL Data}{chapter.2}% 14
+\BOOKMARK [1][-]{section.2.2}{Est and Ist Data}{chapter.2}% 15
+\BOOKMARK [1][-]{section.2.3}{Correction on Dst Index data}{chapter.2}% 16
+\BOOKMARK [1][-]{section.2.4}{Time Integration of Solar Wind for Each Index}{chapter.2}% 17
+\BOOKMARK [0][-]{chapter.3}{Method}{}% 18
+\BOOKMARK [1][-]{section.3.1}{Main Code}{chapter.3}% 19
+\BOOKMARK [1][-]{section.3.2}{Correction of the AU and AL indices}{chapter.3}% 20
+\BOOKMARK [0][-]{chapter.4}{Results}{}% 21
+\BOOKMARK [1][-]{section.4.1}{Correlation between Dst and p1/2dMP/dt}{chapter.4}% 22
+\BOOKMARK [1][-]{section.4.2}{Correlation between Est and p1/2dMP/dt}{chapter.4}% 23
+\BOOKMARK [1][-]{section.4.3}{Correlation between Dst and ESR}{chapter.4}% 24
+\BOOKMARK [1][-]{section.4.4}{Correlation between AU and dMP/dt}{chapter.4}% 25
+\BOOKMARK [1][-]{section.4.5}{Correlation between AL and dMP/dt}{chapter.4}% 26
+\BOOKMARK [0][-]{chapter.5}{Discussion and Conclusion}{}% 27
+\BOOKMARK [0][-]{chapter*.11}{Bibliography}{}% 28
+\BOOKMARK [0][-]{appendix.A}{Main MATLAB\256 code}{}% 29
